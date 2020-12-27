@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "swagmod",
+    "name": "Swag Mod!",
+    "description": "This mod is swag!!!",
+    "version": "1.0",
+    "mcversion": "1.12",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "swag man 69"
+    ],
+    "credits": "me",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
